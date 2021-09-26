@@ -47,6 +47,8 @@ A curated list of all platforms where people have been successful in playing ["B
 - [Google Maps](https://www.youtube.com/watch?v=r-axdVfM0c0)
 - [Google Sheets](https://www.youtube.com/watch?v=-PBQViYED-E)
 - [Youtube Captions](https://www.youtube.com/watch?v=G8DjxY8FNKA)
+- [Github Contributions](https://www.youtube.com/watch?v=6k7McEeaOEY)
+- [Desmos](https://www.youtube.com/watch?v=MVrNn5TuMkY)
 
 ## Games
 
@@ -77,6 +79,8 @@ A curated list of all platforms where people have been successful in playing ["B
 
 - [Pinart](https://www.youtube.com/watch?v=LosOIFUJKu8)
 - [Tesla Coil](https://www.youtube.com/watch?v=YZkPkUXY2rk)
+- [Electromagnetic Display](https://www.youtube.com/watch?v=ko0z3SfXpm8)
+- [E-ink Display](https://www.youtube.com/watch?v=KS8M_MV3Xhw)
 
 ### Computer Peripherals
 
@@ -110,9 +114,12 @@ A curated list of all platforms where people have been successful in playing ["B
 - [Koto](https://www.youtube.com/watch?v=kWkfTMPxGhU)
 - [Shamisen, Shakuhachi](https://www.youtube.com/watch?v=dx76YPgZviE)
 - [Punched Cards](https://www.youtube.com/watch?v=dkxr1zHwvOw)
+- [Beatboxing](https://www.youtube.com/watch?v=itZqqSUDAkI)
+- [Recursive](https://www.youtube.com/watch?v=I-uQQ6KEgYo)
 
 ## IRL Nature
 
 - [Grass](https://www.youtube.com/watch?v=u-1GCGZNotA)
 - [Cloud](https://www.youtube.com/watch?v=baRUqyDVKSE)
 - [Spaghetti](https://www.youtube.com/watch?v=O7KBTkLN7uA)
+- [Apple](https://www.youtube.com/watch?v=KS8M_MV3Xhw)
