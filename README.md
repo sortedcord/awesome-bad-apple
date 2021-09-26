@@ -51,6 +51,11 @@ A curated list of all platforms where people have been successful in playing ["B
 - [Osu!](https://www.youtube.com/watch?v=mOse62Qp1ik)
 - [Osu! Hitnotes](https://www.youtube.com/watch?v=1PRF5SvfPC8)
 - [Beat Saber](https://www.youtube.com/watch?v=sgtpr5vFacw)
+- [Roblox Console](https://www.youtube.com/watch?v=Y8jrfAJPTco)
+- [Hearts Of Iron](https://www.youtube.com/watch?v=9se2o2lZS8o)
+- [Mobile Puzzeles](https://www.youtube.com/watch?v=WSVL7eq8AV0) 99% of people fail at this
+- [Valorant Gun](https://www.youtube.com/watch?v=ncySO2H6fts) Played with a gun firing at the beats (Gun Sync)
+- [CSGO Cheat](https://youtu.be/BQVpKCFlP9Y?t=146)
 
 <br>
 
@@ -63,10 +68,6 @@ A curated list of all platforms where people have been successful in playing ["B
 
 <br>
 
-- [Hearts Of Iron](https://www.youtube.com/watch?v=9se2o2lZS8o)
-- [Mobile Puzzeles](https://www.youtube.com/watch?v=WSVL7eq8AV0) 99% of people fail at this
-- [Valorant Gun](https://www.youtube.com/watch?v=ncySO2H6fts) Played with a gun firing at the beats (Gun Sync)
-- [CSGO Cheat](https://youtu.be/BQVpKCFlP9Y?t=146)
 
 ## Other Hardware
 
