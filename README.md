@@ -4,6 +4,15 @@ A curated list of all platforms where people have been successful in playing ["B
 
 ## Contents
 
+- Applications
+- - Browsers
+- - Chat Applications
+- - Text Editors
+- - Utility Apps
+- - UI/Design Elements 
+- Games
+- Other Hardware
+
 ## Applications
 
 ### Browsers
@@ -35,6 +44,7 @@ A curated list of all platforms where people have been successful in playing ["B
 
 - [Minesweeper](https://www.youtube.com/watch?v=jGuznuVWM-0) On minesweeper using blender
 - [Osu!](https://www.youtube.com/watch?v=mOse62Qp1ik)
+- [Osu! Hitnotes](https://www.youtube.com/watch?v=1PRF5SvfPC8)
 - [Minecraft Block Wall](https://www.youtube.com/watch?v=CDNZx8vSSMo)
 - [Minecraft Sounds](https://www.youtube.com/watch?v=Jxa_u1UPuZI)
 - [Hearts Of Iron](https://www.youtube.com/watch?v=9se2o2lZS8o)
@@ -55,6 +65,7 @@ A curated list of all platforms where people have been successful in playing ["B
 
 - [Apple II](https://www.youtube.com/watch?v=X8osEgYzPNo)
 
+- [Arduino Uno Display Unit](https://www.youtube.com/watch?v=v6HidvezKBI)
 - [Graphing Calculator](https://www.youtube.com/watch?v=6pAeWf3NPNU)
 - [Flipbook](https://www.youtube.com/watch?v=m84PTZB_qT0)
 - [Pregnancy Test](https://www.youtube.com/watch?v=2QiDb_khg44)
@@ -62,6 +73,8 @@ A curated list of all platforms where people have been successful in playing ["B
 
 ## Music Instrument Covers
 
-- [Violin]
-- [Piano]
+- [Violin](https://www.youtube.com/watch?v=3hYJRPcPjpI)
+- [Piano](https://www.youtube.com/watch?v=vsRzJ5feb5g)
 - [Black MIDI](https://www.youtube.com/watch?v=mqdM8VnaBYM)
+- [Drums](https://www.youtube.com/watch?v=1LOnqf7hXHA)
+- [Electric Guitar](https://www.youtube.com/watch?v=yoEYq1Flbjg)
