@@ -46,6 +46,7 @@ A curated list of all platforms where people have been successful in playing ["B
 
 - [Google Maps](https://www.youtube.com/watch?v=r-axdVfM0c0)
 - [Google Sheets](https://www.youtube.com/watch?v=-PBQViYED-E)
+- [Youtube Captions](https://www.youtube.com/watch?v=G8DjxY8FNKA)
 
 ## Games
 
