@@ -17,7 +17,7 @@ A curated list of all platforms where people have been successful in playing ["B
 
 ### Browsers
 
-- [Firefox](https://www.youtube.com/watch?v=JjTqE69ZkUs)
+- [Firefox Tabs](https://www.youtube.com/watch?v=JjTqE69ZkUs)
 
 ### Chat Applications
 
@@ -80,3 +80,6 @@ A curated list of all platforms where people have been successful in playing ["B
 - [Black MIDI](https://www.youtube.com/watch?v=mqdM8VnaBYM)
 - [Drums](https://www.youtube.com/watch?v=1LOnqf7hXHA)
 - [Electric Guitar](https://www.youtube.com/watch?v=yoEYq1Flbjg)
+- [Bass](https://www.youtube.com/watch?v=yQlVVfTpjmo)
+- [Koto](https://www.youtube.com/watch?v=kWkfTMPxGhU)
+- [Shamisen, Shakuhachi](https://www.youtube.com/watch?v=dx76YPgZviE)
