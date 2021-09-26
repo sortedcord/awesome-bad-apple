@@ -62,6 +62,7 @@ A curated list of all platforms where people have been successful in playing ["B
 - [Mobile Puzzeles](https://www.youtube.com/watch?v=WSVL7eq8AV0) 99% of people fail at this
 - [Valorant Gun](https://www.youtube.com/watch?v=ncySO2H6fts) Played with a gun firing at the beats (Gun Sync)
 - [CSGO Cheat](https://youtu.be/BQVpKCFlP9Y?t=146)
+- [Terraria](https://youtu.be/NUh4tqlkyWI?t=55)
 
 <br>
 
