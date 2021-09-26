@@ -22,12 +22,14 @@ A curated list of all platforms where people have been successful in playing ["B
 ### Chat Applications
 
 - [Discord Messages](https://www.youtube.com/watch?v=xriYwm85lY0) Bad Apple playes in discord messages.
+- [Discord Voice Channel user List](https://www.youtube.com/watch?v=VGscIBfT7xE)
 
 ### Text Editors/ Terminals
 
 - [Notepad](https://www.youtube.com/watch?v=rknrunmQArs)
 - [Command Prompt](https://www.youtube.com/watch?v=Z8M9NUMo0CQ)
 - [VS Code](https://www.youtube.com/watch?v=cmpg-qiPYa8)
+- [Pycharm](https://www.youtube.com/watch?v=b2-f1MLFmF8)
 
 ### Utility Applications
 
@@ -52,6 +54,7 @@ A curated list of all platforms where people have been successful in playing ["B
 - [Osu! Hitnotes](https://www.youtube.com/watch?v=1PRF5SvfPC8)
 - [Beat Saber](https://www.youtube.com/watch?v=sgtpr5vFacw)
 - [Roblox Console](https://www.youtube.com/watch?v=Y8jrfAJPTco)
+- [Roblox NPCs](https://www.youtube.com/watch?v=ameF7IIpyvk)
 - [Hearts Of Iron](https://www.youtube.com/watch?v=9se2o2lZS8o)
 - [Mobile Puzzeles](https://www.youtube.com/watch?v=WSVL7eq8AV0) 99% of people fail at this
 - [Valorant Gun](https://www.youtube.com/watch?v=ncySO2H6fts) Played with a gun firing at the beats (Gun Sync)
@@ -71,6 +74,9 @@ A curated list of all platforms where people have been successful in playing ["B
 
 ## Other Hardware
 
+- [Pinart](https://www.youtube.com/watch?v=LosOIFUJKu8)
+- [Tesla Coil](https://www.youtube.com/watch?v=YZkPkUXY2rk)
+
 ### Computer Peripherals
 
 - [RGB Keyboard](https://www.youtube.com/watch?v=gzcWriqcSz4)
@@ -89,10 +95,7 @@ A curated list of all platforms where people have been successful in playing ["B
 
 <br>
 
-- [Arduino Uno Display Unit](https://www.youtube.com/watch?v=v6HidvezKBI)
-- [Graphing Calculator](https://www.youtube.com/watch?v=6pAeWf3NPNU)
-- [Flipbook](https://www.youtube.com/watch?v=m84PTZB_qT0)
-- [Pregnancy Test](https://www.youtube.com/watch?v=2QiDb_khg44)
+
 
 
 ## Music Instrument Covers
@@ -105,3 +108,10 @@ A curated list of all platforms where people have been successful in playing ["B
 - [Bass](https://www.youtube.com/watch?v=yQlVVfTpjmo)
 - [Koto](https://www.youtube.com/watch?v=kWkfTMPxGhU)
 - [Shamisen, Shakuhachi](https://www.youtube.com/watch?v=dx76YPgZviE)
+- [Punched Cards](https://www.youtube.com/watch?v=dkxr1zHwvOw)
+
+## IRL Nature
+
+- [Grass](https://www.youtube.com/watch?v=u-1GCGZNotA)
+- [Cloud](https://www.youtube.com/watch?v=baRUqyDVKSE)
+- [Spaghetti](https://www.youtube.com/watch?v=O7KBTkLN7uA)
