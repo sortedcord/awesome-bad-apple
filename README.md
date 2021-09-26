@@ -45,6 +45,7 @@ A curated list of all platforms where people have been successful in playing ["B
 - [Minesweeper](https://www.youtube.com/watch?v=jGuznuVWM-0) On minesweeper using blender
 - [Osu!](https://www.youtube.com/watch?v=mOse62Qp1ik)
 - [Osu! Hitnotes](https://www.youtube.com/watch?v=1PRF5SvfPC8)
+- [Beat Saber](https://www.youtube.com/watch?v=sgtpr5vFacw)
 
 <br>
 
