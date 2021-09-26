@@ -52,6 +52,7 @@ A curated list of all platforms where people have been successful in playing ["B
 - [Minecraft Sounds](https://www.youtube.com/watch?v=Jxa_u1UPuZI)
 - [Minecraft Player List](https://www.youtube.com/watch?v=DStJUHwJUgw)
 - [Minecraft Sheep](https://www.youtube.com/watch?v=tO6sfku_1b8)
+- [Minecraft Armour Sheeps](https://www.youtube.com/watch?v=OGzeQOkiccE)
 
 <br>
 
@@ -74,6 +75,8 @@ A curated list of all platforms where people have been successful in playing ["B
 ### Vintage Computers/Machines
 
 - [Apple II](https://www.youtube.com/watch?v=X8osEgYzPNo)
+- [Black and White Portable TV](https://www.youtube.com/watch?v=w71xvkRT4rs)
+- [USSR Plasma Panels](https://www.youtube.com/watch?v=VBtLD79KmMc)
 
 <br>
 
