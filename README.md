@@ -75,6 +75,7 @@ A curated list of all platforms where people have been successful in playing ["B
 ### Vintage Computers/Machines
 
 - [Apple II](https://www.youtube.com/watch?v=X8osEgYzPNo)
+- [IBM PC](https://www.youtube.com/watch?v=OT2ufnGe9Cc)
 - [Black and White Portable TV](https://www.youtube.com/watch?v=w71xvkRT4rs)
 - [USSR Plasma Panels](https://www.youtube.com/watch?v=VBtLD79KmMc)
 
