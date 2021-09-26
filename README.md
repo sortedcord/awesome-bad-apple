@@ -40,6 +40,11 @@ A curated list of all platforms where people have been successful in playing ["B
 - [Windows Titlebars](https://www.youtube.com/watch?v=M-DUBjQPgTM)
 - 
 
+## Websites/ Webapps
+
+- [Google Maps](https://www.youtube.com/watch?v=r-axdVfM0c0)
+- [Google Sheets](https://www.youtube.com/watch?v=-PBQViYED-E)
+
 ## Games
 
 - [Minesweeper](https://www.youtube.com/watch?v=jGuznuVWM-0) On minesweeper using blender
@@ -54,6 +59,7 @@ A curated list of all platforms where people have been successful in playing ["B
 - [Minecraft Player List](https://www.youtube.com/watch?v=DStJUHwJUgw)
 - [Minecraft Sheep](https://www.youtube.com/watch?v=tO6sfku_1b8)
 - [Minecraft Armour Sheeps](https://www.youtube.com/watch?v=OGzeQOkiccE)
+- [Minecraft 3d Stop Motion](https://www.youtube.com/watch?v=2fRqd1ME0IE)
 
 <br>
 
