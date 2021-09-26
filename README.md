@@ -2,3 +2,66 @@
 
 A curated list of all platforms where people have been successful in playing ["Bad Apple" song from Touhou Video Game Franchise]()
 
+## Contents
+
+## Applications
+
+### Browsers
+
+- [Firefox](https://www.youtube.com/watch?v=JjTqE69ZkUs)
+
+### Chat Applications
+
+- [Discord Messages](https://www.youtube.com/watch?v=xriYwm85lY0) Bad Apple playes in discord messages.
+
+### Text Editors/ Terminals
+
+- [Notepad](https://www.youtube.com/watch?v=rknrunmQArs)
+- [Command Prompt](https://www.youtube.com/watch?v=Z8M9NUMo0CQ)
+- [VS Code](https://www.youtube.com/watch?v=cmpg-qiPYa8)
+
+### Utility Applications
+
+- [Windows Task Manager](https://www.youtube.com/watch?v=sBeI30ccb6g)
+- [Microsoft Paint](https://www.youtube.com/watch?v=itbBubDqm70)
+- [Windows File Explorer](https://www.youtube.com/watch?v=7WHA_Gi4nPA)
+
+### UI/Design Elements
+
+- [Windows Titlebars](https://www.youtube.com/watch?v=M-DUBjQPgTM)
+- 
+
+## Games
+
+- [Minesweeper](https://www.youtube.com/watch?v=jGuznuVWM-0) On minesweeper using blender
+- [Osu!](https://www.youtube.com/watch?v=mOse62Qp1ik)
+- [Minecraft Block Wall](https://www.youtube.com/watch?v=CDNZx8vSSMo)
+- [Minecraft Sounds](https://www.youtube.com/watch?v=Jxa_u1UPuZI)
+- [Hearts Of Iron](https://www.youtube.com/watch?v=9se2o2lZS8o)
+- [Mobile Puzzeles](https://www.youtube.com/watch?v=WSVL7eq8AV0) 99% of people fail at this
+
+## Other Hardware
+
+### Computer Peripherals
+
+- [RGB Keyboard](https://www.youtube.com/watch?v=gzcWriqcSz4)
+
+### Handheld/ Gaming Consoles
+
+- [Nintendo DS](https://www.youtube.com/watch?v=8I-x6ddqQ5k)
+- [Nintendo Gameboy](https://www.youtube.com/watch?v=gy3NCr4rX-Y)
+
+### Vintage Computers/Machines
+
+- [Apple II](https://www.youtube.com/watch?v=X8osEgYzPNo)
+
+- [Graphing Calculator](https://www.youtube.com/watch?v=6pAeWf3NPNU)
+- [Flipbook](https://www.youtube.com/watch?v=m84PTZB_qT0)
+- [Pregnancy Test](https://www.youtube.com/watch?v=2QiDb_khg44)
+
+
+## Music Instrument Covers
+
+- [Violin]
+- [Piano]
+- [Black MIDI](https://www.youtube.com/watch?v=mqdM8VnaBYM)
