@@ -51,6 +51,7 @@ A curated list of all platforms where people have been successful in playing ["B
 - [Minecraft Block Wall](https://www.youtube.com/watch?v=CDNZx8vSSMo)
 - [Minecraft Sounds](https://www.youtube.com/watch?v=Jxa_u1UPuZI)
 - [Minecraft Player List](https://www.youtube.com/watch?v=DStJUHwJUgw)
+- [Minecraft Sheep](https://www.youtube.com/watch?v=tO6sfku_1b8)
 
 <br>
 
