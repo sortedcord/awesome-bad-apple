@@ -83,6 +83,7 @@ A curated list of all platforms where people have been successful in playing ["B
 - [Electromagnetic Display](https://www.youtube.com/watch?v=ko0z3SfXpm8)
 - [E-ink Display](https://www.youtube.com/watch?v=KS8M_MV3Xhw)
 - [Hand Drawn RISC V CPU](https://youtu.be/1OfeswjPZuw?t=117)
+- [Pinetime Smartwatch](https://www.youtube.com/watch?v=RqL8V3xWmxg)
 
 ### Computer Peripherals
 
@@ -100,6 +101,7 @@ A curated list of all platforms where people have been successful in playing ["B
 - [Black and White Portable TV](https://www.youtube.com/watch?v=w71xvkRT4rs)
 - [USSR Plasma Panels](https://www.youtube.com/watch?v=VBtLD79KmMc)
 - [Vectrex](https://youtu.be/_aFXvoTnsBU)
+- [CFFA30000](https://www.youtube.com/watch?v=X4faogRMOL4)
 
 <br>
 
