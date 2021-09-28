@@ -82,6 +82,7 @@ A curated list of all platforms where people have been successful in playing ["B
 - [Tesla Coil](https://www.youtube.com/watch?v=YZkPkUXY2rk)
 - [Electromagnetic Display](https://www.youtube.com/watch?v=ko0z3SfXpm8)
 - [E-ink Display](https://www.youtube.com/watch?v=KS8M_MV3Xhw)
+- [Hand Drawn RISC V CPU](https://youtu.be/1OfeswjPZuw?t=117)
 
 ### Computer Peripherals
 
@@ -98,6 +99,7 @@ A curated list of all platforms where people have been successful in playing ["B
 - [IBM PC](https://www.youtube.com/watch?v=OT2ufnGe9Cc)
 - [Black and White Portable TV](https://www.youtube.com/watch?v=w71xvkRT4rs)
 - [USSR Plasma Panels](https://www.youtube.com/watch?v=VBtLD79KmMc)
+- [Vectrex](https://youtu.be/_aFXvoTnsBU)
 
 <br>
 
