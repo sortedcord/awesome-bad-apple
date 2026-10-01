@@ -84,6 +84,7 @@ A curated list of all platforms where people have been successful in playing ["B
 - [E-ink Display](https://www.youtube.com/watch?v=KS8M_MV3Xhw)
 - [Hand Drawn RISC V CPU](https://youtu.be/1OfeswjPZuw?t=117)
 - [Pinetime Smartwatch](https://www.youtube.com/watch?v=RqL8V3xWmxg)
+- [LG L30](https://www.youtube.com/watch?v=FI-f2NRrslY)
 
 ### Computer Peripherals
 
